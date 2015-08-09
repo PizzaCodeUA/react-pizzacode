@@ -13,7 +13,7 @@ Build Your First React.js App
 4. `npm install webpack -g`
 
 ## Run
-1. `webpack -w`
+1. run `webpack -w`
 2. check `bundle.js` in `public` folder
 2. open `index.html`
 
